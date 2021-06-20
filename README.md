@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### 현재 웹 백엔드와 클라우드에 관심을 가지고 있습니다. ✨
+현재 웹 백엔드와 클라우드에 관심을 가지고 있습니다. ✨
+
+<br>
 
 ![Geunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnu-Kenny&show_icons=true&theme=tokyonight)
 
