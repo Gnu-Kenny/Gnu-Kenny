@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Geunwoo's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+[![Geunwoo's github stats](https://github-readme-stats.vercel.app/api?username=Gnu-kenny)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnu-kenny)](https://github.com/anuraghazra/github-readme-stats)
 
