@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Geunwoo's github stats](https://github-readme-stats.vercel.app/api?username=Gnu-kenny)](https://github.com/anuraghazra/github-readme-stats)
-![Geunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnu-Kenny&show_icons=true&theme=radical)
+![Geunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnu-Kenny&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnu-kenny)](https://github.com/anuraghazra/github-readme-stats)
 
