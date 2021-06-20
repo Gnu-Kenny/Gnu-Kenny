@@ -2,8 +2,7 @@
 
 ![Geunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnu-Kenny&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnu-kenny&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnu-kenny&theme=tokyonight)](https://github.com/Gnu-Kenny/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnu-Kenny&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
