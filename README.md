@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 현재 웹 백엔드와 클라우드에 관심을 가지고 있습니다. ✨
+
 ![Geunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnu-Kenny&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnu-Kenny&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
