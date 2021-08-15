@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Django-#092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
 
 
 <br>
