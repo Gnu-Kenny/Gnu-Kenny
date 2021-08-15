@@ -4,6 +4,11 @@
 
 <br>
 
+<img src="https://img.shields.io/badge/Django-#092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+
+
+<br>
+
 [RESUME](https://drive.google.com/file/d/19ypJ_AUNTmWf5xJon-FIGIhviFe7i3WW/view?usp=sharing)
 
 <br>
